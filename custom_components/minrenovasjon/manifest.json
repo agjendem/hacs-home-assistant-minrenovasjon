@@ -1,7 +1,7 @@
 {
   "domain": "minrenovasjon",
   "name": "MinRenovasjon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "codeowners": [
     "@giaever-online-iot"
   ],
